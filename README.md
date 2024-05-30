@@ -1,4 +1,3 @@
-Image Captioning for Agricultural Disease Detection and Management
 Problem Statement
 Image Captioning for Agricultural Disease Detection and Management
 
